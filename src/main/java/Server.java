@@ -24,4 +24,3 @@ public class Server extends WebSocketServer {
         new Server(port).start();
     }
 }
-
